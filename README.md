@@ -11,4 +11,6 @@ http://aurasoft.ddns.net:6600/
 
 http://auraclock.ddns.net:6600/
 
+
+
 http://AuraSofts.com/zkteco-fingerprint-attendance/

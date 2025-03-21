@@ -25,4 +25,5 @@ https://aurasofts.com/zkteco-fingerprint-attendance/
     "license": "Other proprietary",
     "depends": ["hr","hr_attendance"],
     "installable": True,
+    "images": ['static/description/banner.png', 'static/description/icon.png']
 }

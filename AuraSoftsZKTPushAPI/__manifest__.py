@@ -22,7 +22,7 @@ https://aurasofts.com/zkteco-fingerprint-attendance/
     "author": "AuraSofts",
     "category": "Generic Modules/Human Resources",
     "version": "1.0",
-    "license": "Proprietary",
+    "license": "Other proprietary",
     "depends": ["hr","hr_attendance"],
     "installable": True,
 }

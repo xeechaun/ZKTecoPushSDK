@@ -7,9 +7,9 @@ We have completed several projects successfully.
 
 Samples hosted here:
 
-http://aurasoft.ddns.net:6600/
+http://test1.aurasofts.com/
 
-http://auraclock.ddns.net:6600/
+http://aurasoft.ddns.net:6600/
 
 
 Find out more and contact us:

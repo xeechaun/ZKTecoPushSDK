@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 {
-    "name": "AuraSofts ZKTeco Push SDK/API",
+    "name": "ZKTeco Push SDK/API",
     "version": "1.0",
     "category": "Generic Modules/Human Resources/Access Control",
     "sequence": 1,
